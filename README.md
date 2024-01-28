@@ -16,4 +16,7 @@ I found  'bert-base-uncased' model showed the best outcomes for sentence similar
 
 # Comparison graph between topsis score v/s models
 
+![image](https://github.com/Kunalg55/102103038_Pre-trained_model/assets/142966912/67fc0e02-c8c3-4079-ae96-6e48cfb4a561)
+
+
 
